@@ -1,6 +1,7 @@
 import React from "react"
 import { GlobalStyle } from "./GlobalStyles"
-import { ListOfCategories } from "./components/listOfCategories"
+import { ListOfPhotoCards } from "./components/ListOfPhotoCards"
+import { ListOfCategories } from "./components/ListOfCategories"
 
 export default function App(){
     return(
@@ -8,6 +9,7 @@ export default function App(){
             <GlobalStyle />
             <h1>Bienvenidos al curso de react avanzado.</h1>
             <ListOfCategories />
+            <ListOfPhotoCards />
         </>
     )
 }

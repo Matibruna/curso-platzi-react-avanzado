@@ -1,5 +1,5 @@
 import React from "react"
-import { Category } from "../category"
+import { Category } from "../Category"
 import { List, Item } from "./styles"
 import db from "../../../api/db.json"
 
