@@ -5,6 +5,7 @@ export const List = styled.ul`
     display: flex;
     overflow: scroll;
     width: 100%;
+    margin-bottom: 15px;
     ${props => props.fixed && css`
         background: #fff;
         border-radius: 60px;
