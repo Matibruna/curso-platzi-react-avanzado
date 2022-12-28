@@ -28,6 +28,7 @@ export const GlobalStyle = createGlobalStyle`
         margin: 0 auto;
         overscroll-behavior: none;
         width: 100%;
+        max-width: 500px;
     }
 
     #app{
