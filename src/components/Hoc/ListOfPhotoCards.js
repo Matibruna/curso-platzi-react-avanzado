@@ -10,3 +10,4 @@ export const ListOfPhotoCards = ({categoryId}) => {
       <ListOfPhotoCardsComponent photos={data.photos}/>
     )
   }
+  
