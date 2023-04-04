@@ -19,3 +19,5 @@ Webpack
 Vercel  
 GraphQL  
 JWT
+
+Si intentas correr este proyecto es posible que la API de Vercel ya no este funcionando.
